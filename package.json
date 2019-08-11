@@ -1,6 +1,6 @@
 {
   "name": "ms-convert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts milliseconds to hours, minutes and seconds",
   "main": "index.js",
   "scripts": {
