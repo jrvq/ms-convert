@@ -16,5 +16,10 @@
     "time"
   ],
   "author": "Joonas Järvinen",
-  "license": "MIT"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jrvq/ms-convert.git"
+    },
+    "homepage": "https://github.com/jrvq/ms-convert"
 }
