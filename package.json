@@ -1,0 +1,20 @@
+{
+  "name": "ms-convert",
+  "version": "1.0.0",
+  "description": "Converts milliseconds to hours, minutes and seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "millisecond",
+    "ms",
+    "convert",
+    "second",
+    "minute",
+    "hour",
+    "time"
+  ],
+  "author": "Joonas Järvinen",
+  "license": "MIT"
+}
